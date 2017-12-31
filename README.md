@@ -5,3 +5,5 @@ Repositorio para compartir puntos importantes de un ciclo de pruebas con la herr
 * [Introducciòn a BPT](docs/BPT_FRAMEWORK.md)
 
 * [Plugin Jenkins para HPE UFT](docs/UFT_JENKINS.md)
+
+* [UFT + Cucumber BDD = Magic!!!](docs/UFT_BDD.md)
